@@ -1,2 +1,2 @@
-# StudentSystem
-Student management system
+# B1GRegistration
+B1G attendance system
